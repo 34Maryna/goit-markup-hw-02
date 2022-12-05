@@ -6,9 +6,8 @@
 --primary-text-color: #757575;
 --bg-color: #FFFFFF;
 --btn-color: #2196F3;
---second-text-color: #FFFFFF;
+--second-text-color: #FFFFFF; }
 
-}
 body {
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
